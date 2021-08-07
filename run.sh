@@ -1,0 +1,1 @@
+echo "(load \"news.arc\")(nsv)" | mzscheme -f /app/src/as.scm
